@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+![](https://visitor-badge.laobi.icu/badge?page_id=rogerchenfz.visitor-badge)
+
+### ✨ About me 
+
+![](https://github-readme-stats.vercel.app/api?username=rogerchenfz)
+
+[![Fangzhou Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerchenfz)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 👨‍🎓 Education
+  - Master of Science in Data Science, [School of Data Science](https://sds.cuhk.edu.cn/), [**The Chinese University of Hong Kong, Shenzhen, China**](https://www.cuhk.edu.cn/), 2021 - 2023
+  - Bachelor of Science in Statistics, [School of Economics](https://economic.xmu.edu.cn/), [**Xiamen University, China**](https://www.xmu.edu.cn/), 2017 - 2021
+
+ 
 <!--
 **rogerchenfz/rogerchenfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
