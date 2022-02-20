@@ -4,9 +4,7 @@
 
 ### ✨ About me 
 
-![](https://github-readme-stats.vercel.app/api?username=rogerchenfz)
-
-[![Fangzhou Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerchenfz)](https://github.com/anuraghazra/github-readme-stats)
+[![Fangzhou Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerchenfz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz)](https://github.com/anuraghazra/github-readme-stats)
 
