@@ -10,6 +10,10 @@ I'm Fangzhou Chen, a first-year student of [MSc in Data Science Programme](https
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ### 👨‍🎓 Education
   - Master of Science in Data Science, [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen, China](https://www.cuhk.edu.cn/), 2021 - 2023
   - Bachelor of Science in Statistics, [School of Economics](https://economic.xmu.edu.cn/), [Xiamen University, China](https://www.xmu.edu.cn/), 2017 - 2021
