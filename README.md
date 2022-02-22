@@ -8,11 +8,18 @@
 
 I'm Fangzhou Chen, a first-year student of [MSc in Data Science Programme](https://mscds.cuhk.edu.cn/), [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen, China](https://www.cuhk.edu.cn/).
 
--   :hammer_and_pick: Python / R / SQL / GitHub Actions / Python / TypeScript / Vue
+-   :hammer_and_pick:
+    ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python)
+    ![R](https://img.shields.io/badge/-R-grey?style=plastic&logo=r)
+    ![MySQL](https://img.shields.io/badge/-MySQL-inactive?style=plastic&logo=mysql)
+    ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown)
+    ![Jupyter](https://img.shields.io/badge/-Jupyter-lightblue?style=plastic&logo=jupyter)
+    ![PyCharm](https://img.shields.io/badge/-PyCharm-yellow?style=plastic&logo=pycharm)
+    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 -   :man_scientist: [INFJ](https://www.16personalities.com/infj-personality) personality
   
 <!--
-[![Fangzhou Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerchenfz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Fangzhou Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerchenfz&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
