@@ -8,13 +8,16 @@
 
 I'm Fangzhou Chen, a first-year student of [MSc in Data Science Programme](https://mscds.cuhk.edu.cn/), [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen, China](https://www.cuhk.edu.cn/).
 
+-   :hammer_and_pick: Python / R / SQL / GitHub Actions / Python / TypeScript / Vue
+-   :man_scientist: [INFJ](https://www.16personalities.com/infj-personality) personality
+  
 <!--
 [![Fangzhou Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerchenfz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+#### :bar_chart: Weekly coding time
 
 <!--START_SECTION:waka-->
 ```text
