@@ -10,6 +10,8 @@ I'm Fangzhou Chen, a first-year student of [MSc in Data Science Programme](https
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz)](https://github.com/anuraghazra/github-readme-stats)
 
+#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
