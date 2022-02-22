@@ -12,7 +12,7 @@ I'm Fangzhou Chen, a first-year student of [MSc in Data Science Programme](https
 [![Fangzhou Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerchenfz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 
