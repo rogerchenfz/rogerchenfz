@@ -17,7 +17,9 @@ I'm Fangzhou Chen, a first-year student of [MSc in Data Science Programme](https
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### 👨‍🎓 Education
