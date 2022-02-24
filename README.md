@@ -15,7 +15,8 @@ I'm Fangzhou Chen, a first-year student of [MSc in Data Science Programme](https
     ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown)
 -   ⚙️
     ![Jupyter](https://img.shields.io/badge/-Jupyter-lightblue?style=plastic&logo=jupyter)
-    ![PyCharm](https://img.shields.io/badge/-PyCharm-yellow?style=plastic&logo=pycharm)
+    ![PyCharm](https://img.shields.io/badge/-PyCharm-grey?style=plastic&logo=pycharm)
+    ![RStudio](https://img.shields.io/badge/-RStudio-white?style=plastic&logo=rstudio)
     ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 -   :man_scientist: [INFJ](https://www.16personalities.com/infj-personality) personality
   
