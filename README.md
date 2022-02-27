@@ -29,9 +29,11 @@ I'm Fangzhou Chen, a first-year student of [MSc in Data Science Programme](https
 #### :bar_chart: Weekly coding time
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ### 👨‍🎓 Education
