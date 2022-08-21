@@ -12,6 +12,7 @@ I'm Fangzhou Chen, a first-year student of [MSc in Data Science Programme](https
     ![Python](https://img.shields.io/badge/-Python-lightgrey?style=plastic&logo=python)
     ![R](https://img.shields.io/badge/-R-grey?style=plastic&logo=r)
     ![MySQL](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql)
+    ![Hive](https://img.shields.io/badge/-Hive-grey?style=plastic&logo=hive)
     ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown)
 -   ⚙️
     ![Jupyter](https://img.shields.io/badge/-Jupyter-lightblue?style=plastic&logo=jupyter)
