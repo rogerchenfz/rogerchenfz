@@ -29,8 +29,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👨‍🎓 教育经历
-  - [香港中文大学（深圳）](https://www.cuhk.edu.cn/)    [数据科学学院](https://sds.cuhk.edu.cn/)    [数据科学理学硕士](https://mscds.cuhk.edu.cn/)    2021 - 2023
-  - [厦门大学](https://www.xmu.edu.cn/)    [经济学院](https://economic.xmu.edu.cn/)    [统计学](https://stats.xmu.edu.cn/)理学学士    2017 - 2021
+  - [香港中文大学（深圳）](https://www.cuhk.edu.cn/)    [数据科学学院](https://sds.cuhk.edu.cn/)    数据科学 理学硕士    2021 - 2023
+  - [厦门大学](https://www.xmu.edu.cn/)    [经济学院](https://economic.xmu.edu.cn/)    统计学 理学学士    2017 - 2021
 
 ### 📫 联系方式
 
