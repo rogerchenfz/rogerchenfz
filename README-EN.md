@@ -2,12 +2,11 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rogerchenfz.visitor-badge)
 
-
-### ✨ 关于我
+### ✨ About me
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rogerchenfz&include_all_commits=true&count_private=true&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
-陈方舟，[香港中文大学（深圳）](https://www.cuhk.edu.cn/)[数据科学学院](https://sds.cuhk.edu.cn/)[数据科学理学硕士](https://mscds.cuhk.edu.cn/)二年级学生。
+I'm Fangzhou Chen, a second-year student of [MSc in Data Science Programme](https://mscds.cuhk.edu.cn/en/), [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen, China](https://www.cuhk.edu.cn/en).
 
 -   :hammer_and_pick:
     ![Python](https://img.shields.io/badge/-Python-lightgrey?style=plastic&logo=python)
@@ -28,11 +27,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 👨‍🎓 教育经历
-  - [香港中文大学（深圳）](https://www.cuhk.edu.cn/)    [数据科学学院](https://sds.cuhk.edu.cn/)    数据科学    理学硕士    2021 - 2023
-  - [厦门大学](https://www.xmu.edu.cn/)    [经济学院](https://se.xmu.edu.cn/)    统计学    理学学士    2017 - 2021
+### 👨‍🎓 Education
+  - Master of Science in Data Science, [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen, China](https://www.cuhk.edu.cn/en), 2021 - 2023
+  - Bachelor of Science in Statistics, [School of Economics](https://se.xmu.edu.cn/english/), [Xiamen University, China](https://en.xmu.edu.cn/), 2017 - 2021
 
-### 📫 联系方式
+### 📫 Contact
 
 [![Homepage Badge](https://img.shields.io/badge/-Homepage-blue?style=plastic&link=https://rogerchenfz.github.io/)](https://rogerchenfz.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-rogerchenfz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.cn/injobs/in/rogerchenfz/)](https://www.linkedin.cn/injobs/in/rogerchenfz/)
