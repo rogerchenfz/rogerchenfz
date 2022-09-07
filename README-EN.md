@@ -34,7 +34,7 @@ I'm Fangzhou Chen, a second-year student of [MSc in Data Science Programme](http
 ### 📫 Contact
 
 [![Homepage Badge](https://img.shields.io/badge/-Homepage-blue?style=plastic&link=https://rogerchenfz.github.io/)](https://rogerchenfz.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-rogerchenfz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.cn/injobs/in/rogerchenfz/)](https://www.linkedin.cn/injobs/in/rogerchenfz/)
+[![Linkedin Badge](https://img.shields.io/badge/-rogerchenfz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerchenfz/)](https://www.linkedin.cn/injobs/in/rogerchenfz/)
 [![Gmail Badge](https://img.shields.io/badge/-fangzhouchen@link.cuhk.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:fangzhouchen@link.cuhk.edu.cn)](mailto:fangzhouchen@link.cuhk.edu.cn)
  
 <!--
