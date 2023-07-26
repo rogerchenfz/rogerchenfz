@@ -20,7 +20,7 @@
     ![PyCharm](https://img.shields.io/badge/-PyCharm-grey?style=plastic&logo=pycharm)
     ![RStudio](https://img.shields.io/badge/-RStudio-white?style=plastic&logo=rstudio)
     ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
--   :man_scientist: [ISFJ](https://www.16personalities.com/ch/isfj-%E4%BA%BA%E6%A0%BC) 人格
+-   :man_scientist: [ISTJ](https://www.16personalities.com/ch/istj-%E4%BA%BA%E6%A0%BC) 人格
   
 <!--
 [![Fangzhou Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerchenfz&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,7 +35,7 @@
 ### 📫 联系方式
 
 [![Homepage Badge](https://img.shields.io/badge/-Homepage-blue?style=plastic&link=https://rogerchenfz.github.io/)](https://rogerchenfz.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-rogerchenfz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.cn/injobs/in/rogerchenfz/)](https://www.linkedin.cn/injobs/in/rogerchenfz/)
+[![Linkedin Badge](https://img.shields.io/badge/-rogerchenfz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerchenfz/)](https://www.linkedin.com/in/rogerchenfz/)
 [![Gmail Badge](https://img.shields.io/badge/-fangzhouchen@link.cuhk.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:fangzhouchen@link.cuhk.edu.cn)](mailto:fangzhouchen@link.cuhk.edu.cn)
  
 <!--
