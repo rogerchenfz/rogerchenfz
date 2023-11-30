@@ -7,7 +7,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rogerchenfz&include_all_commits=true&count_private=true&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
-陈方舟，[香港中文大学（深圳）](https://www.cuhk.edu.cn/)[数据科学学院](https://sds.cuhk.edu.cn/)[数据科学理学硕士](https://mscds.cuhk.edu.cn/)二年级学生。
+陈方舟，互联网狂热爱好者，弦计划技术部成员，WISER CLUB本科生部成员。
 
 -   :hammer_and_pick:
     ![Python](https://img.shields.io/badge/-Python-lightgrey?style=plastic&logo=python)
