@@ -6,7 +6,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rogerchenfz&include_all_commits=true&count_private=true&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
-I'm Fangzhou Chen, a second-year student of [MSc in Data Science Programme](https://mscds.cuhk.edu.cn/en/), [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen, China](https://www.cuhk.edu.cn/en).
+I'm Fangzhou Chen, an enthusiast of Internet, member of Project String, insider of WISER CLUB.
 
 -   :hammer_and_pick:
     ![Python](https://img.shields.io/badge/-Python-lightgrey?style=plastic&logo=python)
