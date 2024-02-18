@@ -6,7 +6,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rogerchenfz&include_all_commits=true&count_private=true&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
-I'm Fangzhou Chen, an enthusiast of Internet, member of Project String, insider of WISER CLUB.
+I'm Fangzhou Chen, an enthusiast of Internet, a data scientist at Taobao and Tmall Group, member of Project String, insider of WISER CLUB.
 
 -   :hammer_and_pick:
     ![Python](https://img.shields.io/badge/-Python-lightgrey?style=plastic&logo=python)
@@ -27,6 +27,9 @@ I'm Fangzhou Chen, an enthusiast of Internet, member of Project String, insider 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### 👨‍💻 Career
+- [Taobao and Tmall Group, Hangzhou, China](https://talent.taotian.com/)    &ensp;&ensp;    Data Scientist    &ensp;&ensp; 2024 -
+
 ### 👨‍🎓 Education
   - Master of Science in Data Science, [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen, China](https://www.cuhk.edu.cn/en), 2021 - 2023
   - Bachelor of Science in Statistics, [School of Economics](https://se.xmu.edu.cn/english/), [Xiamen University, China](https://en.xmu.edu.cn/), 2017 - 2021
@@ -36,7 +39,19 @@ I'm Fangzhou Chen, an enthusiast of Internet, member of Project String, insider 
 [![Homepage Badge](https://img.shields.io/badge/-Homepage-blue?style=plastic&link=https://rogerchenfz.github.io/)](https://rogerchenfz.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-rogerchenfz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerchenfz/)](https://www.linkedin.com/in/rogerchenfz/)
 [![Gmail Badge](https://img.shields.io/badge/-fangzhouchen@link.cuhk.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:fangzhouchen@link.cuhk.edu.cn)](mailto:fangzhouchen@link.cuhk.edu.cn)
- 
+
+### 🔗 Useful Links
+- [Alibaba Group Official Website](https://www.alibabagroup.com/en-US)
+- [Taobao and Tmall Group Careers](https://talent.taotian.com/) (Chinese)
+- [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en)
+- [School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en)
+- [Msc in Data Science Programme, CUHK-Shenzhen](https://mscds.cuhk.edu.cn/en/)
+- [Xiamen University](https://en.xmu.edu.cn/)
+- [School of Economics, Xiamen University](https://se.xmu.edu.cn/english/)
+- [Department of Statistics and Data Science, School of Economics, Xiamen University](https://stats.xmu.edu.cn/) (Chinese)
+- [Project String](https://une7n7jjfj.feishu.cn/docx/HW67dp35QoPmPixSouOcYizHnFh) (Chinese)
+- [WISER CLUB](https://mp.weixin.qq.com/s/6fXVJnnGLaQQDJ12q0dhUQ) (Chinese)
+
 <!--
 **rogerchenfz/rogerchenfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
