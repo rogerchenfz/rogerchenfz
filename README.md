@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 工作经历
+### 👨‍💻 工作经历
 - [阿里巴巴集团-淘天集团](https://talent.taotian.com/)    数据科学家    2024 -
   
 ### 👨‍🎓 教育经历
