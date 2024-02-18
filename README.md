@@ -33,7 +33,7 @@
   
 ### 👨‍🎓 教育经历
   - [香港中文大学（深圳）](https://www.cuhk.edu.cn/)    &ensp;&ensp;    [数据科学学院](https://sds.cuhk.edu.cn/)    &ensp;&ensp;    数据科学 理学硕士    &ensp;&ensp;    2021 - 2023
-  - [厦门大学](https://www.xmu.edu.cn/)    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;    [经济学院](https://economic.xmu.edu.cn/)    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;     统计学 理学学士    &ensp;&ensp;    2017 - 2021
+  - [厦门大学](https://www.xmu.edu.cn/)    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;    [经济学院](https://economic.xmu.edu.cn/)    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;     统计学 理学学士    &ensp;&ensp;&ensp;&ensp;    2017 - 2021
 
 ### 📫 联系方式
 
