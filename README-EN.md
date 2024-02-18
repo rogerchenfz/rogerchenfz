@@ -28,7 +28,7 @@ I'm Fangzhou Chen, an enthusiast of Internet, data scientist at Taobao and Tmall
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👨‍💻 Career
-- Taobao and Tmall Group, Hangzhou, China    &ensp;&ensp;    Data Scientist    &ensp;&ensp; 2024 -
+- Data Scientist, Taobao and Tmall Group, Hangzhou, China, 2024 -
 
 ### 👨‍🎓 Education
   - Master of Science in Data Science, School of Data Science, The Chinese University of Hong Kong, Shenzhen, China, 2021 - 2023
