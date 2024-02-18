@@ -7,7 +7,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rogerchenfz&include_all_commits=true&count_private=true&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
-陈方舟，互联网狂热爱好者，弦计划技术部成员，WISER CLUB本科生部成员。
+陈方舟，互联网狂热爱好者，淘天集团数据科学家，弦计划技术部成员，WISER CLUB本科生部成员。
 
 -   :hammer_and_pick:
     ![Python](https://img.shields.io/badge/-Python-lightgrey?style=plastic&logo=python)
@@ -28,6 +28,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### 工作经历
+- [阿里巴巴集团-淘天集团](https://talent.taotian.com/)    数据科学家    2024 -
+  
 ### 👨‍🎓 教育经历
   - [香港中文大学（深圳）](https://www.cuhk.edu.cn/)    [数据科学学院](https://sds.cuhk.edu.cn/)    数据科学 理学硕士    2021 - 2023
   - [厦门大学](https://www.xmu.edu.cn/)    [经济学院](https://economic.xmu.edu.cn/)    统计学 理学学士    2017 - 2021
