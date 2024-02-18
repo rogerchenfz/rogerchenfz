@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👨‍💻 工作经历
-- [阿里巴巴集团-淘天集团](https://talent.taotian.com/)    &ensp;&ensp;    数据科学家    &ensp;&ensp; 2024 -
+- [淘天集团](https://talent.taotian.com/)    &ensp;&ensp;    数据科学家    &ensp;&ensp; 2024 -
   
 ### 👨‍🎓 教育经历
   - [香港中文大学（深圳）](https://www.cuhk.edu.cn/)    &ensp;&ensp;    [数据科学学院](https://sds.cuhk.edu.cn/)    &ensp;&ensp;    数据科学 理学硕士    &ensp;&ensp;    2021 - 2023
@@ -40,7 +40,19 @@
 [![Homepage Badge](https://img.shields.io/badge/-Homepage-blue?style=plastic&link=https://rogerchenfz.github.io/)](https://rogerchenfz.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-rogerchenfz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerchenfz/)](https://www.linkedin.com/in/rogerchenfz/)
 [![Gmail Badge](https://img.shields.io/badge/-fangzhouchen@link.cuhk.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:fangzhouchen@link.cuhk.edu.cn)](mailto:fangzhouchen@link.cuhk.edu.cn)
- 
+
+ ### 🔗 友情链接
+- [阿里巴巴集团官方网站](https://www.alibabagroup.com/)
+- [淘天集团招聘官网](https://talent.taotian.com/)
+- [香港中文大学（深圳）](https://www.cuhk.edu.cn/) 
+- [香港中文大学（深圳）数据科学学院](https://sds.cuhk.edu.cn/)
+- [香港中文大学（深圳）数据科学理学硕士项目](https://mscds.cuhk.edu.cn/)
+- [厦门大学](https://www.xmu.edu.cn/)
+- [厦门大学经济学院](https://economic.xmu.edu.cn/)
+- [厦门大学经济学院统计学与数据科学系](https://stats.xmu.edu.cn/)
+- [弦计划](https://une7n7jjfj.feishu.cn/docx/HW67dp35QoPmPixSouOcYizHnFh)
+- [WISER CLUB](https://mp.weixin.qq.com/s/6fXVJnnGLaQQDJ12q0dhUQ)
+
 <!--
 **rogerchenfz/rogerchenfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
