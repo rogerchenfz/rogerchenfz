@@ -29,11 +29,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👨‍💻 工作经历
-- 淘天集团    &ensp;&ensp;    数据科学家    &ensp;&ensp; 2024 -
+- 淘天集团    &ensp;&ensp;    数据科学家    &ensp;&ensp; 2024.1 -
   
 ### 👨‍🎓 教育经历
-  - 香港中文大学（深圳）    &ensp;&ensp;    数据科学学院    &ensp;&ensp;    数据科学 理学硕士    &ensp;&ensp;    2021 - 2023
-  - 厦门大学    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;    经济学院    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;     统计学 理学学士    &ensp;&ensp;&ensp;&ensp;    2017 - 2021
+  - 香港中文大学（深圳）    &ensp;&ensp;    数据科学学院    &ensp;&ensp;    数据科学 理学硕士    &ensp;&ensp;    2021.9 - 2023.11
+  - 厦门大学    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;    经济学院    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;     统计学 理学学士    &ensp;&ensp;&ensp;&ensp;    2017.9 - 2021.6
 
 ### 📫 联系方式
 
