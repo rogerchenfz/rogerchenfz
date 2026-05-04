@@ -6,7 +6,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rogerchenfz&include_all_commits=true&count_private=true&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
-I'm Fangzhou Chen, an enthusiast of Internet, data scientist at Taobao and Tmall Group, member of Project String, insider of WISER CLUB.
+I'm Fangzhou Chen, an enthusiast of Internet, data engineer at Taobao and Tmall Group, data engineer intern at Taobao and Tmall Group, Huolala, SF Technology, member of Project String, insider of WISER CLUB.
 
 -   :hammer_and_pick:
     ![Python](https://img.shields.io/badge/-Python-lightgrey?style=plastic&logo=python)
@@ -28,7 +28,7 @@ I'm Fangzhou Chen, an enthusiast of Internet, data scientist at Taobao and Tmall
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchenfz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👨‍💻 Career
-- Data Scientist, Taobao and Tmall Group, Hangzhou, China, January 2024 - Present
+- Data Engineer, Taobao and Tmall Group, Hangzhou, China, January 2024 - Present
 
 ### 👨‍🎓 Education
   - Master of Science in Data Science, School of Data Science, The Chinese University of Hong Kong, Shenzhen, China, September 2021 - November 2023
